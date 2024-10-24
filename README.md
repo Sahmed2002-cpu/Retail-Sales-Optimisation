@@ -15,3 +15,4 @@ Retail-Sales-Optimization/
 │        └── arima_model.pkl # Saved ARIMA model (generated in the notebook)
 │
 └── README.md              # Project documentation
+
